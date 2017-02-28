@@ -24,5 +24,6 @@
   </dependencies>
   <modules>
     <module>dates</module>
+    <module>web</module>
   </modules>
 </project>
